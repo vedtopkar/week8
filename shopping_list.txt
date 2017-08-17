@@ -1,3 +1,5 @@
 eggs
 bread
 peanut butter
+cereal
+donuts
